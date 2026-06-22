@@ -1,0 +1,8 @@
+# 项目代码
+
+存放CS61A四个大项目。
+
+- hog: 骰子游戏 (Hog)
+- cats: 打字游戏 (Cats)
+- ants: 蚂蚁大战蜜蜂 (Ants vs. SomeBees)
+- scheme: Scheme 解释器
